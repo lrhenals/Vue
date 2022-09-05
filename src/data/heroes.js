@@ -26,4 +26,9 @@ const heroes = [
     },
 ];
 
-const owners = ['DC','Marvel'];
+//const owners = ['DC','Marvel'];
+// para poder exportar estos arrglos se agrega el comando 'export'
+//--export const owners = ['DC','Marvel'];
+
+// exportar por defecto
+export default heroes;
